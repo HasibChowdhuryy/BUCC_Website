@@ -1,4 +1,4 @@
-Languages Used - HTML, CSS, Javascript, PHP, mySQL
+Languages Used - HTML, CSS, Javascript, PHP, mySQL.
 Frameworks Used - Bootstrap.
 
 Features of the website :
